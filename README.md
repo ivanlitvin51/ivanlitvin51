@@ -1,22 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ivan+—+NSU+student+%7C+C+%2B+Python;Algorithms%2C+Data+Structures%2C+Big+Integers;Competitive+Programming+%26+Study+notes;Welcome+to+my+GitHub!" alt="typing intro"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ivanlitvin51?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ivanlitvin51?style=for-the-badge"></a>
-  <a href="https://github.com/ivanlitvin51"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ivanlitvin51&style=for-the-badge"></a>
-  <a href="https://github.com/ivanlitvin51/NSU-education"><img alt="Repo" src="https://img.shields.io/badge/NSU--education-active-brightgreen?style=for-the-badge"></a>
-</p>
-
----
-
 ## 👋 About me 
 
-- 🎓 **NSU (Новосибирский ГУ)** — имп. программирование, дискретка, линал, матан
-- 💻 Пишу на **C** (алгоритмы, структуры данных, big-int), иногда **Python**
-- 🧮 Интересы: длинная арифметика (`LongNum`), Фибоначчи/факториал 6000+ цифр, разбор задач, оптимизация под 1s/"разумную" память
+- 🎓 **NSU (НГУ)** — имп. программирование, машинное обучение, цифровые платформы, дискретная математика, математический анализ
+- 💻 Пишу на **C** (алгоритмы, структуры данных), **JavaScript, HTML, CSS** иногда **Python**
+- 🧮 Интересы вне учебы: хожу в зал, иногда играю, провожу время с девушкой
 - 🏁 Контесты: разбор, чистые реализации, комментарии к решениям
-- ✍️ Веду **конспекты/шпаргалки** к экзаменам (Taylor, Rolle, sup/inf, комбинаторика)
+- ✍️ Пишу **конспекты** к экзаменам, готовлюсь к зимней сессиии
 - 🤝 Открыт к **совместным пет-проектам** и code review
 
 > I enjoy building crystal‑clear, well‑commented reference implementations and teaching materials. If you like precise code and proofs, we’ll get along.
@@ -41,7 +29,7 @@
 
 ## 🚀 Featured projects
 
-- **[NSU-education](https://github.com/ivanlitvin51/NSU-education)** — задачи и решения по моим курсам НГУ, с понятными комментариями и тестами
+- **[NSU-education](https://github.com/ivanlitvin51/NSU-education)** — задачи и решения по моим заданиям с различных курсов НГУ, с понятными комментариями и тестами
 - **[website-03](https://github.com/ivanlitvin51/website-03)** — веб‑проект с адаптивной версткой, анимацией и аккуратной структурой HTML/CSS/JS
 
 ---
@@ -62,7 +50,7 @@
 ## 📬 Contacts
 
 - 📧 Email: **ivanlitvin51@gmail.com**
-- 💬 Telegram: [My tg](https://t.me/vnltnv)
+- 💬 Telegram: [My Telegram](https://t.me/vnltnv)
 
 ---
 
@@ -70,10 +58,10 @@
 
 - [ ] Закончить ВУЗ, получить качественное образование
 - [ ] Стать хорошим специалистом в своей области
-- [ ] Повеселиться
+- [ ] Повеселиться, найти хороших друзей и знакомых
 
 ---
 
 <p align="center">
-  <i>“Make it correct. Make it clear. Make it fast — in that order.”</i>
+  <i>“Рад был познакомиться”</i>
 </p>
