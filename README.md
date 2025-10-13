@@ -50,7 +50,7 @@
 
 - 📧 Email: **ivanlitvin51@gmail.com**
 - 💬 Telegram: [My Telegram](https://t.me/vnltnv)
-- 📶 VK: [VK](https://vk.com/vnltvn)
+- 📶 VK: [VK](https://vk.com/vnltv)
 
 ---
 
@@ -62,7 +62,9 @@
 
 ---
 
-[Me at Fall](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzZnl5dmlnZmo0dDFtY3psaXR1dmxmMjUxY213bjN2YnNkam50dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yp67OuuIKSLHNyqHUz/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzZnl5dmlnZmo0dDFtY3psaXR1dmxmMjUxY213bjN2YnNkam50dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yp67OuuIKSLHNyqHUz/giphy.gif" width="500" alt="Coding animation" />
+</p>
 
 ---
 
