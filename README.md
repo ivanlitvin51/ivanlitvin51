@@ -26,22 +26,23 @@
 ## 🧰 Tech & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![GCC](https://img.shields.io/badge/GCC-000000?logo=gnu&logoColor=white&style=flat)
-![GDB](https://img.shields.io/badge/GDB-000000?logo=gnu&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![Make](https://img.shields.io/badge/Make-1F6FEB?logo=cmake&logoColor=white&style=flat)
-![Valgrind](https://img.shields.io/badge/Valgrind-772953?style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
 
 ---
 
 ## 🚀 Featured projects
 
-- **[NSU-education](https://github.com/ivanlitvin51/NSU-education)** — задачи и решения по курсам НГУ, с понятными комментариями и тестами
+- **[NSU-education](https://github.com/ivanlitvin51/NSU-education)** — задачи и решения по моим курсам НГУ, с понятными комментариями и тестами
 - **[website-03](https://github.com/ivanlitvin51/website-03)** — веб‑проект с адаптивной версткой, анимацией и аккуратной структурой HTML/CSS/JS
-- **[longnum-lib](https://github.com/ivanlitvin51/longnum-lib)** — десятичная длинная арифметика: +, ×, n!, F(n), печать, парсер *(в разработке)*
-- **[cp-notes](https://github.com/ivanlitvin51/cp-notes)** — шаблоны для контестов + комментарии и примеры ввода/вывода
 
 ---
 
@@ -56,22 +57,20 @@
   <img height="160" src="https://streak-stats.demolab.com?user=ivanlitvin51&date_format=j%20M%5B%20Y%5D" alt="Streak stats"/>
 </p>
 
-> *Метрики — это приятно, но качество кода и тестов всё равно важнее 😊*
-
 ---
 
 ## 📬 Contacts
 
 - 📧 Email: **ivanlitvin51@gmail.com**
-- 💬 Telegram: *(добавь сюда свой @ник, если хочешь)*
+- 💬 Telegram: [My tg](https://t.me/vnltnv)
 
 ---
 
 ## 🎯 Goals (2025)
 
-- [ ] Оформить 2–3 обучающих README с картинками/диаграммами
-- [ ] Стабильная библиотека LongNum (API v1)
-- [ ] Решить 100+ задач с идеальными комментариями
+- [ ] Закончить ВУЗ, получить качественное образование
+- [ ] Стать хорошим специалистом в своей области
+- [ ] Повеселиться
 
 ---
 
