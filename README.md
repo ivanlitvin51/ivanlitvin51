@@ -1,27 +1,21 @@
 ## 👋 About me 
 
-- 🎓 Учусь в **NSU (НГУ)** — *факультет*: **Институт Интеллектуальной Робототехники (ИИР)**, *направление* - **Прикладной Искусственный Интеллект**. *Основные предметы:* императивное программирование, машинное обучение, цифровые платформы, дискретная математика, математический анализ
-- 💻 Пишу на **C**, **JavaScript, HTML, CSS**, **Python**
-- 🧮 Интересы вне учебы: хожу в зал, иногда играю, провожу время с девушкой
-- 🏁 Контесты: разбор, чистые реализации, комментарии к решениям
-- 🤝 Открыт к **совместным пет-проектам** и code review
+- 🎓 Учусь в **NSU (НГУ)** ИИР на ML и дата саинс
+- 🧮 Интересы вне учебы: зал и игры
+- 🤝 Открыт к **любым предложениям** и общению
 
-> Заставляю себя учиться
+> keepin' it up
 
 ---
 
-## 🧰 Tech & Tools
+## 🧰 Стек
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![GCC](https://img.shields.io/badge/GCC-000000?logo=gnu&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+- Адаптивная верстка (js css html) + ведущие фронт-библиотеки (React, Next) 
+- Дата саинс (np, plt, pd и тд..)
+- Computer science - алгоритмы, деревья и тд...
+- Работаю с NLP моделями/библиотеками (в частности с трансформерами)
+- ML: такие как PyTorch, CatBoost, TensorFlow и мн. др..
+- CV: OpenCV, сверточные (cnn), torch
 
 ---
 
@@ -29,7 +23,8 @@
 
 - **[NSU-education](https://github.com/ivanlitvin51/NSU-education)** — задачи и решения по моим заданиям с различных курсов НГУ, с понятными комментариями и тестами
 - **[website-03](https://github.com/ivanlitvin51/website-03)** — веб‑проект с адаптивной версткой, анимацией и аккуратной структурой HTML/CSS/JS
-
+- **[Микросервисная архитектура: система семантического поиска (Т1)](https://github.com/Aukvary/ML-Case)** - работа для холдинга т1
+  
 ---
 
 ## 📬 Contacts
@@ -42,8 +37,8 @@
 
 ## 🎯 Goals (2025)
 
-- [ ] Закончить 2 семестр
-- [ ] Апнуть титана в доте
+- [ ] Закончить 2 курс
+- [ ] Коммерческий опыт
 
 ---
 
@@ -54,5 +49,5 @@
 ---
 
 <p align="center">
-  <i>“Поскорее бы весна бл”</i>
+  <i>“всем привет)))”</i>
 </p>
